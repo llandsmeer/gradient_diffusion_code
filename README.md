@@ -1,5 +1,7 @@
 # Code for gradient diffusion
 
+Landsmeer, Lennart PL, et al. "Gradient Diffusion: Enhancing Multicompartmental Neuron Models for Gradient-Based Self-Tuning and Homeostatic Control." arXiv preprint arXiv:2412.07327 (2024).
+
 ## Required Packages
 
 Arbor pycat:
